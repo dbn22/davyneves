@@ -12,6 +12,11 @@ TEREI AINDA HÁ VER SOBRE LINK DO GMAIL.
 
 ![Dbn 22 GitHub stats](https://github-readme-stats.vercel.app/api?username=dbn22&show_icons=true&theme=radical)
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbn22&layout=compact)](https://github.com/dbn22)
+Aqui fica todo os percentuais de habilidade em cada tecnologia.
+-->
+
 ## Tecnologias que utilizo:
 
 <div style="display: inline_block"><br/>
